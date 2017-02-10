@@ -1,0 +1,17 @@
+Player Tiles
+	Spawn Points 
+Gems 
+	Win Screen
+Wall Tiles
+	Turtle Collision 180 degree turn
+Ice Wall Tiles - puddles
+	Ice Wall has wall physics turns puddle when hit by LAZOR
+Cards-
+	Turn Right
+	Turn Left
+	Straight 
+	Laser
+
+
+OPTIONAL SPECs
+Bug Tiles
