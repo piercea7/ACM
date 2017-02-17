@@ -4,7 +4,7 @@ using System.Collections;
 public class GameBoard : Tile {
     private Tile[,] board;
     private int boardSize;
-    public GameBoard()
+    public GameBoard() : base(8, 8)
     {
         boardSize = 8;
         board = new Tile[boardSize, boardSize];
